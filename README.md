@@ -1,4 +1,4 @@
-Script que server para inverter uma frrase digitada na linha de comando do python
+Script que server para inverter uma frrase digitada na linha de comando com python no Windows
 
 Para instalar a biblioteca necessaria.  
 `pip install -r requirements.txt`.
